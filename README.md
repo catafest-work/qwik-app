@@ -27,8 +27,21 @@ Inside your project, you'll see the following directory structure:
         └── tester - learn to change default project 
 ```
 
-This is the result of runnig code: 
+This is the result of runnig code with this command:
+```
+qwik-app>npm run dev
 
+> dev
+> vite --mode ssr
+
+
+  VITE v4.2.2  ready in 870 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h to show help
+State is None
+```
 ![alt qwik example](qwik_example.bmp)
 
 - `src/routes`: Provides the directory based routing, which can include a hierarchy of `layout.tsx` layout files, and an `index.tsx` file as the page. Additionally, `index.ts` files are endpoints. Please see the [routing docs](https://qwik.builder.io/qwikcity/routing/overview/) for more info.
