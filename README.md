@@ -1,4 +1,7 @@
-# Qwik City App ⚡️
+
+# Qwik City App ⚡️ - new changes for learning area 
+
+### - from default project qwik I make some changes 
 
 - [Qwik Docs](https://qwik.builder.io/)
 - [Discord](https://qwik.builder.io/chat)
