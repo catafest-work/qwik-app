@@ -27,6 +27,10 @@ Inside your project, you'll see the following directory structure:
         └── tester - learn to change default project 
 ```
 
+This is the result of runnig code: 
+
+![alt qwik example](qwik_example.bmp)
+
 - `src/routes`: Provides the directory based routing, which can include a hierarchy of `layout.tsx` layout files, and an `index.tsx` file as the page. Additionally, `index.ts` files are endpoints. Please see the [routing docs](https://qwik.builder.io/qwikcity/routing/overview/) for more info.
 
 - `src/components`: Recommended directory for components.
