@@ -1,4 +1,7 @@
-# Qwik City App ⚡️
+
+# Qwik City App ⚡️ - new changes for learning area 
+
+### - from default project qwik I make some changes 
 
 - [Qwik Docs](https://qwik.builder.io/)
 - [Discord](https://qwik.builder.io/chat)
@@ -19,9 +22,9 @@ Inside your project, you'll see the following directory structure:
 │   └── ...
 └── src/
     ├── components/
-    │   └── ...
+    │   └── navigation - create a new menu 
     └── routes/
-        └── ...
+        └── tester - learn to change default project 
 ```
 
 - `src/routes`: Provides the directory based routing, which can include a hierarchy of `layout.tsx` layout files, and an `index.tsx` file as the page. Additionally, `index.ts` files are endpoints. Please see the [routing docs](https://qwik.builder.io/qwikcity/routing/overview/) for more info.
